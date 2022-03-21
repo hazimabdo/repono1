@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74BB-C691
+
+ Directory of C:\Users\Lenovo\Desktop\tools\git\my folder
+
+03/21/2022  09:21 PM    <DIR>          .
+03/21/2022  09:21 PM    <DIR>          ..
+03/17/2022  11:27 PM                 0 index.html.TXT
+03/17/2022  11:26 PM                27 test2.txt
+03/21/2022  09:21 PM                 0 test3.txt
+               3 File(s)             27 bytes
+               2 Dir(s)  355,553,218,560 bytes free
